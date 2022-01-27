@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e11cd1f038ac8f7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd8476a5e888f1e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "seata.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "169b1a5f98b54224",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a41528ab704cc80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25449238ff880e32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0c82b1eb3616ab9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1eff373930d837cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f34f5b86c4d6eb19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fa25bfbc5ffb1c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "seata.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02371f9c2bef8958",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd8476a5e888f1e8",
+  "lastOpenFiles": [
+    "seata.md",
+    "spring cloud alibaba.md"
+  ]
+}
