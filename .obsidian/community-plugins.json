@@ -1,5 +1,8 @@
 [
   "calendar",
   "sliding-panes-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-plantuml",
+  "obsidian-excalidraw-plugin",
+  "obsidian-mind-map"
 ]
