@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "分布式事务/分布式事务.md",
+            "file": "MySQL45讲/MySQL中的MVCC.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#binlog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分布式事务/分布式事务.md",
+                "file": "MySQL45讲/MySQL中的MVCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,15 @@
   },
   "active": "f39ace044781d3ad",
   "lastOpenFiles": [
+    "MySQL45讲/MySQL中的MVCC.md",
+    "Excalidraw/mysql-readview结构.excalidraw.md",
+    "Excalidraw/mysql-mvcc记录图解.excalidraw.md",
+    "MySQL45讲/MySQL中的锁.md",
+    "MySQL45讲/一条SQL是如何执行的.md",
     "分布式事务/分布式事务.md",
     "MindMap/分布式事务实现类型.md",
-    "MySQL45讲/一条SQL是如何执行的.md",
     "Excalidraw/redolog结构.excalidraw.md",
     "Excalidraw/redolog结构.md",
-    "Excalidraw/redolog结构.md",
-    "分布式事务/seata.md",
-    "分布式事务/spring cloud alibaba.md"
+    "Excalidraw/redolog结构.md"
   ]
 }
