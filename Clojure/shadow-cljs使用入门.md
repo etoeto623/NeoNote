@@ -76,3 +76,7 @@ npx shadow-cljs watch frontend
 :dev-http {8080 "public"}}
 ```
 此时，访问`http://localhost:8080`可以看到生成的页面
+# 5、参考
+- [shadow-cljs+reagent脚手架](https://github.com/jacekschae/shadow-reagent)
+
+#shadow-cljs    #clojure

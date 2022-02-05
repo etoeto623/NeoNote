@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clojure/shadow-cljs使用入门.md",
+            "file": "Clojure/shadow-cljs中引入react组件.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#binlog",
+                "query": "reagent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clojure/shadow-cljs使用入门.md",
+                "file": "Clojure/shadow-cljs中引入react组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "0eae25abd6cb8a6a",
   "lastOpenFiles": [
+    "Clojure/shadow-cljs中引入react组件.md",
     "Clojure/shadow-cljs使用入门.md",
     "MySQL45讲/MySQL中的锁.md",
     "MySQL45讲/数据更新时进行了哪些操作.md",
@@ -105,7 +106,6 @@
     "Excalidraw/Untitled.md",
     "MySQL45讲/MySQL中的MVCC.md",
     "Excalidraw/mysql-mvcc记录图解.excalidraw.md",
-    "Excalidraw/mysql-readview结构.excalidraw.md",
-    "MySQL45讲/一条SQL是如何执行的.md"
+    "Excalidraw/mysql-readview结构.excalidraw.md"
   ]
 }
