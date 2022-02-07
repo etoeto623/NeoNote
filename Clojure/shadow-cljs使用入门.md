@@ -1,4 +1,4 @@
->shadow-cljs是一个ClojureScript的编译工具，能将cljs编译为js，使用它能用clojure开发前端应用，官网是：[github](https://github.com/thheller/shadow-cljs)
+>shadow-cljs是一个ClojureScript的编译工具，能将cljs编译为js，使用它能用clojure开发前端应用，官网是：[github](https://github.com/thheller/shadow-cljs)，类似的还有[figwheel](https://figwheel.org/)
 # 1、依赖项
 shadow-cljs依赖项如下：
 - nodejs(v6.0.0+)
@@ -54,6 +54,9 @@ app.cljs文件内容如下：
 npx shadow-cljs watch frontend
 ```
 其中，`frontend`就是之前配置的编译id
+``` ad-note
+release的命令是：`npx shadow-cljs release app`
+```
 
 编译完成后，在根目录下会创建`public`文件夹，里面有编译的js文件`public/js/main.js`，此时需要手动在public文件夹下创建一个`index.html`文件，如下：
 ``` html
@@ -78,5 +81,6 @@ npx shadow-cljs watch frontend
 此时，访问`http://localhost:8080`可以看到生成的页面
 # 5、参考
 - [shadow-cljs+reagent脚手架](https://github.com/jacekschae/shadow-reagent)
+- [reagent-frontend-template](https://github.com/reagent-project/reagent-frontend-template)
 
 #shadow-cljs    #clojure
