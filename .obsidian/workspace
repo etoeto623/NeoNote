@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clojure/shadow-cljs使用入门.md",
+            "file": "emacs/emacs basic.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reagent",
+                "query": "#clojure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clojure/shadow-cljs使用入门.md",
+                "file": "emacs/emacs basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -85,6 +85,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "926a9d96484981c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -97,15 +105,15 @@
   },
   "active": "0eae25abd6cb8a6a",
   "lastOpenFiles": [
+    "emacs/emacs basic.md",
+    "Common/视频教程合集.md",
     "Clojure/shadow-cljs使用入门.md",
+    "Clojure/re-frame简介以及事件处理.md",
     "Clojure/Clojure基础.md",
+    "Excalidraw/Drawing 2022-02-26 18.45.15.excalidraw.md",
+    "Life/宝宝洗澡步骤.md",
+    "Excalidraw/baby_shower_procedure.excalidraw.md",
     "Clojure/shadow-cljs中引入react组件.md",
-    "MySQL45讲/MySQL中的锁.md",
-    "MySQL45讲/数据更新时进行了哪些操作.md",
-    "Excalidraw/changebuffer和redolog数据读取.excalidraw.md",
-    "Excalidraw/changebuffer和redolog数据更新.excalidraw.md",
-    "Excalidraw/Untitled.md",
-    "MySQL45讲/MySQL中的MVCC.md",
-    "Excalidraw/mysql-mvcc记录图解.excalidraw.md"
+    "MySQL45讲/MySQL为什么会选错索引.md"
   ]
 }
