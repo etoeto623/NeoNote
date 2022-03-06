@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0eae25abd6cb8a6a",
+        "id": "aa0cc1082e704336",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "emacs/emacs一些简单的elisp.md",
+            "file": "Code/neotify.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emacs/emacs一些简单的elisp.md",
+                "file": "Code/neotify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +103,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0eae25abd6cb8a6a",
+  "active": "aa0cc1082e704336",
   "lastOpenFiles": [
+    "Code/neotify.md",
     "emacs/emacs一些简单的elisp.md",
     "emacs/emacs basic.md",
     "emacs/emacs中配置lsp.md",
@@ -113,7 +114,6 @@
     "Clojure/shadow-cljs使用入门.md",
     "Clojure/re-frame简介以及事件处理.md",
     "Clojure/Clojure基础.md",
-    "Excalidraw/Drawing 2022-02-26 18.45.15.excalidraw.md",
-    "Excalidraw/baby_shower_procedure.excalidraw.md"
+    "Excalidraw/Drawing 2022-02-26 18.45.15.excalidraw.md"
   ]
 }
