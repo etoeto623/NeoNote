@@ -82,7 +82,7 @@ release的命令是：`npx shadow-cljs release app`
 # 5、参考
 - [shadow-cljs+reagent脚手架](https://github.com/jacekschae/shadow-reagent)
 - [reagent-frontend-template](https://github.com/reagent-project/reagent-frontend-template)
-- [[视频教程合集]]
+- [[学习资料合集]]
 - [shadow-reframe-antd](https://github.com/jdhorwitz/shadow-reframe-antizer)
 - [cljs-docs](https://cljdoc.org/)
 - [reframe-http-fx](https://github.com/day8/re-frame-http-fx)
