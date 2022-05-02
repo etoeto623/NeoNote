@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 12,
+  "baseFontSize": 13,
   "theme": "moonstone",
-  "translucency": false,
-  "cssTheme": "Yin and Yang"
+  "translucency": true,
+  "cssTheme": "Things"
 }

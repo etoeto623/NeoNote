@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa0cc1082e704336",
+        "id": "b9f5402bed132720",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Common/工具软件收集.md",
+            "file": "TCPIP/TCP的拥塞机制.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#clojure",
+                "query": "hir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220
   },
   "right": {
     "id": "1eff373930d837cb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common/工具软件收集.md",
+                "file": "TCPIP/TCP的拥塞机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,25 +95,36 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f0b72c258fc20a31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TCPIP/TCP的拥塞机制.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "aa0cc1082e704336",
+  "active": "b9f5402bed132720",
   "lastOpenFiles": [
-    "Common/工具软件收集.md",
-    "Common/学习资料合集.md",
-    "Java/java各个版本的新特性.md",
-    "Clojure/cljs-code-snippet.md",
-    "Code/neotify.md",
-    "emacs/emacs一些简单的elisp.md",
-    "emacs/emacs basic.md",
+    "TCPIP/TCP的拥塞机制.md",
+    "Clojure/babashka中使用sqlite.md",
+    "emacs/emacs中配置clojure开发环境.md",
     "emacs/emacs中配置lsp.md",
-    "Life/宝宝洗澡步骤.md",
-    "Clojure/shadow-cljs使用入门.md"
+    "emacs/emacs basic.md",
+    "Java/java各个版本的新特性.md",
+    "TCPIP/tcpip基础.md",
+    "TCPIP/TCP为什么需要四次挥手.md",
+    "TCPIP/TCP为什么需要三次握手.md",
+    "TCPIP/TCP可靠性的保证.md"
   ]
 }
