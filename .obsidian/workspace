@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCPIP/TCP的拥塞机制.md",
+            "file": "Tech/Redis中使用lua脚本.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCPIP/TCP的拥塞机制.md",
+                "file": "Tech/Redis中使用lua脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCPIP/TCP的拥塞机制.md"
+                "file": "Tech/Redis中使用lua脚本.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "b9f5402bed132720",
   "lastOpenFiles": [
+    "Tech/Redis中使用lua脚本.md",
+    "Life/移轴摄影是什么.md",
+    "Life/宝宝洗澡步骤.md",
     "TCPIP/TCP的拥塞机制.md",
     "Clojure/babashka中使用sqlite.md",
     "emacs/emacs中配置clojure开发环境.md",
     "emacs/emacs中配置lsp.md",
     "emacs/emacs basic.md",
     "Java/java各个版本的新特性.md",
-    "TCPIP/tcpip基础.md",
-    "TCPIP/TCP为什么需要四次挥手.md",
-    "TCPIP/TCP为什么需要三次握手.md",
-    "TCPIP/TCP可靠性的保证.md"
+    "TCPIP/tcpip基础.md"
   ]
 }

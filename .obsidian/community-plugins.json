@@ -8,5 +8,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-admonition",
   "table-editor-obsidian",
-  "obsidian-dynamic-toc"
+  "obsidian-dynamic-toc",
+  "obsidian-indent-lines"
 ]
