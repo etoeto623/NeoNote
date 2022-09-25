@@ -9,5 +9,7 @@
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-dynamic-toc",
-  "obsidian-indent-lines"
+  "obsidian-indent-lines",
+  "drawio-obsidian",
+  "obsidian-graphviz"
 ]
